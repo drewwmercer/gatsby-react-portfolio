@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://nervous-hypatia-319cbf.netlify.app/sitemap.xml
+Host: https://nervous-hypatia-319cbf.netlify.app
