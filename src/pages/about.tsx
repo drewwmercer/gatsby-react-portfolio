@@ -41,8 +41,8 @@ export const AboutPage = (props: Props) => {
 								</Col>
 								<Col xs={24} sm={24} md={24} lg={12} xl={10} xxl={8}>
 									<div className="description-wrapper">
-										<h2 className="text-uppercase">John Doe</h2>
-										<p className="text-bold text-uppercase">Frontend Engineer</p>
+										<h2 className="text-uppercase">Drew W Mercer</h2>
+										<p className="text-bold text-uppercase">Developer</p>
 										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 										<div className="description">
 											<p className="margin-bottom-12px">
@@ -59,7 +59,7 @@ export const AboutPage = (props: Props) => {
 											</p>
 											<p>
 												<span className="icon"><Icon type="pushpin" /></span>
-												<span className="label">Santa Monica Boulevard</span>
+												<span className="label">Raleigh, NC - USA</span>
 											</p>
 										</div>
 									</div>
