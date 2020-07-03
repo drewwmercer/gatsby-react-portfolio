@@ -1,0 +1,51 @@
+@import '../../styles/colors.scss';
+
+.header-container {
+    background: $primaryAccentColor;
+    min-height: 64px;
+    padding: 0px 1.45rem;
+
+    .header {
+        &.ant-layout-header {
+            background: $primaryAccentColor;
+            padding: 0px;
+            min-height: 64px;
+            max-width: 960px;
+            margin: 0 auto;
+
+            .logo {
+                width: 48px;
+                min-height: 64px;
+                background-image: url('../../../static/logo.png');
+                background-repeat: no-repeat;
+                background-position: center;
+                background-size: 36px;
+                margin: 0px 12px 0px 0px;
+                float: left;
+            }
+
+            .ant-menu {
+                background: $primaryAccentColor;
+                line-height: 64px;
+
+                .ant-menu-item {
+                    border-color: $primaryAccentColor;
+                    padding: 0px 12px;
+
+                    a {
+                        color: $whiteColor;
+                        font-size: 1.45rem;
+                    }
+
+                    &.ant-menu-item-selected {
+                        background-color: $whiteColor;
+
+                        a {
+                            color: $primaryAccentColor;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

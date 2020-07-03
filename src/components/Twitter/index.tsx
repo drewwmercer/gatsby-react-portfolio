@@ -1,0 +1,16 @@
+import React, { Fragment, ReactNode } from 'react';
+
+export interface Props {
+	title?: ReactNode;
+}
+
+export const Twitter = (props: Props) => {
+	return (
+		<Fragment>
+			{props.title}
+			<div className="twitter-container" />
+		</Fragment>
+	);
+};
+
+export default Twitter;
