@@ -62,7 +62,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/index/page-data.json",
-    "revision": "53f423a56ca9e2f4adef7542414b5315"
+    "revision": "c31ce91ebe01372b7d0bb061c56ee039"
   },
   {
     "url": "page-data/app-data.json",
@@ -76,39 +76,39 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/posts/page-data.json",
-    "revision": "ef7c84843bb412337357f3f92766dbf9"
+    "revision": "499e72d4dbed6678c94db7a107a6d31a"
   },
   {
     "url": "component---src-templates-blog-post-tsx-422674d69293182744eb.js"
   },
   {
     "url": "page-data/post/hello-world/page-data.json",
-    "revision": "72c253047369ebf04b62ab547bb09c19"
+    "revision": "bc5e045a8080331b911c1c79e2db8950"
   },
   {
     "url": "page-data/post/hello-world-copy/page-data.json",
-    "revision": "2ea5ae6e3fe1bf47230534b4011d618c"
+    "revision": "d75e3448b10b2a8f463fd04c964389e8"
   },
   {
     "url": "component---src-templates-blog-tag-posts-tsx-e3cacf641e5c2907b545.js"
   },
   {
     "url": "page-data/tag/raleigh-web-developer/page-data.json",
-    "revision": "18b2e1467c65bf166ac26117aa56cbbd"
+    "revision": "6026bcc2105c1a9d7a0c95b78af236c2"
   },
   {
     "url": "component---src-templates-blog-category-posts-tsx-c5dde65bab1f86695065.js"
   },
   {
     "url": "page-data/category/uncategorized/page-data.json",
-    "revision": "bec14123528ab990b9fd73485a44466d"
+    "revision": "ac5e023469b4069342cb3f306d2fb6f9"
   },
   {
     "url": "component---src-pages-about-tsx-d449023c88a98055bcba.js"
   },
   {
     "url": "page-data/about/page-data.json",
-    "revision": "9761962e6661aae76172ab7aa270625e"
+    "revision": "28e954fbfb2c6f9ed9c7323649abcbf8"
   },
   {
     "url": "manifest.webmanifest",
