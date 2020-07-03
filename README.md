@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/878942b4-3957-442e-b827-d79049ec03c0/deploy-status)](https://app.netlify.com/sites/nervous-hypatia-319cbf/deploys)
+
 # A starter Gatsby template for a Wordpress blog, built using Typescript and Ant Design
 
 [![Github version](https://img.shields.io/github/package-json/v/sagar7993/gatsby-wordpress-typescript-scss-blog)](https://github.com/sagar7993/gatsby-wordpress-typescript-scss-blog/releases)

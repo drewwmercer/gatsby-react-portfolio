@@ -63,7 +63,7 @@ export const Footer = () => {
 						</div>
 					</Col>
 					<Col xs={24} sm={24} md={8} lg={8} xl={8} xxl={8} className="author-container align-center">
-						<h6 className="author margin-bottom-0px">Gatsby theme by Sagar Jain</h6>
+						<h6 className="author margin-bottom-0px">Gatsby / React / WordPress / GraphQL in action</h6>
 					</Col>
 				</Row>
 			</AntLayout.Footer>
